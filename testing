@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Webpage</title>
+    <!-- Add any additional CSS styles here -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #ffffff;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #8d9091;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            color: #000000;
+            text-align: center;
+        }
+
+        p {
+            color: #000000;
+            text-align: justify;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>Suryakumar R</h1>
+        <p>
+        Welcome to my personal webpage! Here you'll find information about me and my work.
+        </p>
+        Compouter Enthusiast
+        <h2>About Me</h2>
+        <p>
+            7010326292 
+            213,middle Street, vathanakkottai,
+            Kulathur(Tk), Pudukkottai(Dt),
+            suryakumar24700@gmail.com
+            LinkedIn : @surya kumar
+        </p>
+
+        <h2>Portfolio</h2>
+        <p>
+            2014 - 2016
+            BOARD : ANNA UNIVERSITY MOOKAMBIGAI COLLEGE OF ENGINEERING, CLASS OF 2021
+            Passing year of 2017 - 2021
+            Percentage : 7.1 %
+            Computer Science engineering
+        </p>
+
+        <h2>Contact Me</h2>
+        <p>
+            suryakumar24700@gmail.com
+            +91 7010326292
+        </p>
+    </div>
+</body>
+
+</html>
